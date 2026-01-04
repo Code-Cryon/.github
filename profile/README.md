@@ -1,8 +1,3 @@
-Here’s a **clean, modern, GitHub-ready README intro** for **CodeCryon**.
-Startup vibes, dev-friendly, not cringe 😄
-
----
-
 ## 👋 Hi there, we’re **CodeCryon**
 
 **CodeCryon** is a software development company focused on building **scalable, secure, and automation-first digital products**.
@@ -63,12 +58,7 @@ We believe great software is built by **thinking systems, not just features**.
 
 ## 📬 Get in Touch
 
-* 🌐 Website: *Coming soon*
-* 📧 Email: *[hello@codecryon.com](mailto:hello@codecryon.com)*
+* 🌐 Website: *codecryon.com*
+* 📧 Email: *[business@codecryon.com](mailto:business@codecryon.com)*
 * 💼 Open to collaborations & product builds
 
----
-
-⭐ If you like what we build, star the repo — it helps more than you think.
-
----
